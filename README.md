@@ -1,2 +1,2 @@
-# sa-lispm
+# sa-genera
 Keycaps layout
